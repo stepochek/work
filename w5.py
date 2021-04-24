@@ -1,4 +1,4 @@
-import random
+git statusimport random
 
 text_data = input('Write your text: ').split()
 text_data_index = []
